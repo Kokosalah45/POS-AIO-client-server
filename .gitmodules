@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Kokosalah45/POS-trivia-ClientSide
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Kokosalah45/POS-trivia
