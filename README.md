@@ -53,7 +53,7 @@
 
 ### Hosting
 
-- Client-App : [Netlify](https://635705db53f0c632635222fa--monumental-yeot-e027c5.netlify.app/)
+- Client-App : [Netlify](https://635784cad40e11000825d38f--monumental-yeot-e027c5.netlify.app/)
 
 - Server-App : [Railway](https://pos-trivia-production.up.railway.app/)
 
